@@ -8,6 +8,7 @@
     align-items: center;
     font-weight: 400;
     justify-content: space-around;
+    margin-bottom: 10em;
 }
 
 .nav-bar__titulo {
@@ -25,6 +26,7 @@
     list-style-type: none;
     border: 1px solid black;
     padding: 1em;
+    background-color: dimgray;
     
 }
 .lista-menu__titulo {

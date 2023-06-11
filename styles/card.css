@@ -1,0 +1,14 @@
+.card {
+    background-color: darkgrey;
+    width: 15em;
+    margin: 5em;
+}
+.card__imagem {
+    width: 15em;
+}
+.cards {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
