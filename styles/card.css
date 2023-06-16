@@ -1,7 +1,10 @@
 .card {
-    background-color: darkgrey;
+    background-color: rgb(59, 59, 59);
     width: 15em;
     margin: 5em;
+    box-shadow:  0 0 10px 10px rgb(212, 206, 206);
+    color: var(--cor-secundaria)
+
 }
 .card__imagem {
     width: 15em;
@@ -11,4 +14,15 @@
     flex-direction: column;
     text-align: center;
     
+}
+
+.botao {
+    margin-top: 15px;
+    padding-bottom: 1em;
+    
+}
+
+.botao__comprar {
+    padding: 0.5em;
+    border-radius: 24px;
 }
